@@ -1,0 +1,19 @@
+AI Engineer Interview Guide
+
+Python:
+Important topics include variables, functions, OOP, lists, dictionaries, exception handling, and file handling.
+
+Machine Learning:
+Important topics include supervised learning, unsupervised learning, regression, classification, overfitting, underfitting, and evaluation metrics.
+
+Deep Learning:
+Important topics include neural networks, activation functions, backpropagation, CNNs, RNNs, LSTMs, and Transformers.
+
+NLP:
+Important topics include tokenization, embeddings, attention, sequence models, and text classification.
+
+Generative AI:
+Important topics include LLMs, prompting, fine-tuning, RAG, embeddings, vector databases, and agents.
+
+LangChain:
+Important topics include prompt templates, chains, output parsers, document loaders, text splitters, retrievers, and vector stores.

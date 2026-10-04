@@ -1,0 +1,23 @@
+Overall Score: 4.2/10
+
+Skill Strengths:
+- Python
+- NumPy
+- Pandas
+- PyTorch
+- Deep Learning
+- CNN
+- RNN
+- LSTM
+- GRU
+- Transformers
+- NLP
+
+Topics to Improve:
+- Exception handling
+- File handling
+
+Interview Performance:
+- Identified OOP correctly but needed more detail.
+- Provided a basic example of creating a list but needed more details on list manipulation.
+- Mentioned using `try`, `except` correctly but needed more details on catching specific exceptions.

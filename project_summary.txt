@@ -1,0 +1,21 @@
+AI Interview Preparation Assistant
+
+This project helps candidates prepare for AI Engineer interviews.
+
+Main Features:
+- Resume-based skill analysis
+- Interview guide retrieval using RAG
+- Skill-gap analysis
+- Interview question generation
+- Candidate answer evaluation
+- Interview score calculation
+- Final performance report generation
+
+Technologies:
+- Python
+- PyTorch
+- Hugging Face Transformers
+- LangChain
+- FAISS
+- Sentence Transformers
+- Qwen2.5-3B-Instruct
