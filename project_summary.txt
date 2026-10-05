@@ -18,4 +18,4 @@ Technologies:
 - LangChain
 - FAISS
 - Sentence Transformers
-- Qwen2.5-3B-Instruct
+- Qwen2.5-0.5B-Instruct
