@@ -1,49 +1,44 @@
-# AI Interview Preparation Assistant
+# 🤖 AI Interview Preparation Assistant
 
-An AI-powered interview preparation assistant built with LangChain, Hugging Face, FAISS, and Qwen2.5-3B-Instruct.
+🚀 **Live Demo:** [Try the AI Interview Assistant](https://aiinterviewassistant-ighbbcxjabdpcop4qbjoag.streamlit.app/)
+
+An AI-powered interview preparation assistant that analyzes a candidate's resume, identifies skill gaps, conducts mock interviews, evaluates answers, and provides AI-based interview assistance.
 
 ## Features
 
-- Resume-based skill analysis
-- Interview guide RAG
-- Skill-gap analysis
-- Interview question generation
-- Dynamic mock interviews
-- Answer evaluation
-- Interview score calculation
-- Final performance report
+- 📄 Resume Analysis
+- 🎯 Skill Gap Analysis
+- 🎤 Mock Interview
+- 📊 Answer Scoring
+- 💬 AI Interview Assistant
+- 🔍 RAG-based document assistance
+- 🤗 Hugging Face Qwen model
+- 🦜 LangChain
+- 🗂️ FAISS vector search
+- 🧠 Sentence Transformers
 
 ## Technologies
 
 - Python
+- Streamlit
 - PyTorch
 - LangChain
 - Hugging Face Transformers
-- Sentence Transformers
+- Qwen
 - FAISS
-- Qwen2.5-3B-Instruct
+- Sentence Transformers
+- PyPDF
 
 ## Project Structure
 
+```text
 AI_Interview_Assistant/
-├── data/
-│   ├── interview_guide.txt
-│   └── resume.pdf
+├── app.py
 ├── interview_assistant.ipynb
+├── interview_guide.txt
 ├── interview_report.txt
 ├── project_summary.txt
 ├── requirements.txt
-└── README.md
-
-## How It Works
-
-1. Load the interview guide and resume.
-2. Split documents into chunks.
-3. Create embeddings.
-4. Store embeddings in FAISS.
-5. Retrieve relevant information.
-6. Compare resume skills with interview topics.
-7. Generate interview questions.
-8. Evaluate candidate answers.
-9. Calculate the interview score.
-10. Generate the final report.
+├── README.md
+└── data/
+    └── resume.pdf
