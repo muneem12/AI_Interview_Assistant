@@ -42,6 +42,8 @@ AI_Interview_Assistant/
 ├── README.md
 └── data/
     └── resume.pdf
+```
+
 
 ## Screenshots
 
@@ -56,3 +58,4 @@ AI_Interview_Assistant/
 
 ### AI Assistant
 ![AI Assistant](screenshots/ai-assistant.png)
+
