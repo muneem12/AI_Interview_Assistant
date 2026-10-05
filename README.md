@@ -42,3 +42,17 @@ AI_Interview_Assistant/
 ├── README.md
 └── data/
     └── resume.pdf
+
+## Screenshots
+
+### Resume Analysis
+![Resume Analysis](screenshots/resume-analysis.png)
+
+### Skill Gap Analysis
+![Skill Gap](screenshots/skill-gap.png)
+
+### Mock Interview
+![Mock Interview](screenshots/mock-interview.png)
+
+### AI Assistant
+![AI Assistant](screenshots/ai-assistant.png)
